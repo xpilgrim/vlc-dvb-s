@@ -10,7 +10,7 @@ echo "Creating desktop starter..."
 
 bash -c "echo ""[Desktop Entry]"" > /home/$USER/.local/share/applications/vlc-tv-cust.desktop"
 bash -c "echo ""Type=Application"" >> /home/$USER/.local/share/applications/vlc-tv-cust.desktop"
-bash -c "echo ""Name=VLC TV"" >> /home/$USER/.local/share/applications/vlc-tv-cust.desktop"
+bash -c "echo ""Name=VLC TV Auswahl"" >> /home/$USER/.local/share/applications/vlc-tv-cust.desktop"
 bash -c "echo ""Exec=vlc /home/$USER/Apps/vlc-dvb-s/channelsAstra192E131015_custom.xspf"" >> /home/$USER/.local/share/applications/vlc-tv-cust.desktop"
 bash -c "echo ""Terminal=false"" >> /home/$USER/.local/share/applications/vlc-tv-cust.desktop"
 bash -c "echo ""Icon=/home/$USER/Apps/vlc-dvb-s/Chrisbanks2-Cold-Fusion-Hd-Tv-guide-2.ico"" >> /home/$USER/.local/share/applications/vlc-tv-cust.desktop"
