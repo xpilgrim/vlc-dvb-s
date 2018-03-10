@@ -1,0 +1,1382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<playlist version="1" xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/">
+		<title>DVB Playlist</title>
+		<trackList>
+			<track>
+				<title>0001. ZDF HD</title>
+				<location>dvb-s://frequency=11361750:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1</vlc:id>
+					<vlc:option>program=11110</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0002. zdf_neo HD</title>
+				<location>dvb-s://frequency=11361750:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>2</vlc:id>
+					<vlc:option>program=11130</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0003. zdf.kultur HD</title>
+				<location>dvb-s://frequency=11361750:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>3</vlc:id>
+					<vlc:option>program=11140</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0004. Das Erste HD</title>
+				<location>dvb-s://frequency=11493750:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>4</vlc:id>
+					<vlc:option>program=10301</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0005. arte HD</title>
+				<location>dvb-s://frequency=11493750:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>5</vlc:id>
+					<vlc:option>program=10302</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0154. SAT.1</title>
+				<location>dvb-s://frequency=12544750:inversion=2:srate=22000000:fec=5:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>155</vlc:id>
+					<vlc:option>program=17500</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0155. ProSieben</title>
+				<location>dvb-s://frequency=12544750:inversion=2:srate=22000000:fec=5:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>156</vlc:id>
+					<vlc:option>program=17501</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0156. kabel eins</title>
+				<location>dvb-s://frequency=12544750:inversion=2:srate=22000000:fec=5:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>157</vlc:id>
+					<vlc:option>program=17502</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0157. N24</title>
+				<location>dvb-s://frequency=12544750:inversion=2:srate=22000000:fec=5:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>158</vlc:id>
+					<vlc:option>program=17503</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0158. SAT.1 Gold</title>
+				<location>dvb-s://frequency=12544750:inversion=2:srate=22000000:fec=5:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>159</vlc:id>
+					<vlc:option>program=17504</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0159. ProSieben MAXX</title>
+				<location>dvb-s://frequency=12544750:inversion=2:srate=22000000:fec=5:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>160</vlc:id>
+					<vlc:option>program=17505</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0160. kabel eins classics</title>
+				<location>dvb-s://frequency=12544750:inversion=2:srate=22000000:fec=5:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>161</vlc:id>
+					<vlc:option>program=17506</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0161. SAT.1 Bayern</title>
+				<location>dvb-s://frequency=12544750:inversion=2:srate=22000000:fec=5:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>162</vlc:id>
+					<vlc:option>program=17507</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0162. SAT.1 NRW</title>
+				<location>dvb-s://frequency=12544750:inversion=2:srate=22000000:fec=5:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>163</vlc:id>
+					<vlc:option>program=17508</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0163. ProSieben Schweiz</title>
+				<location>dvb-s://frequency=12051000:inversion=2:srate=27500000:fec=3:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>164</vlc:id>
+					<vlc:option>program=20001</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0164. ProSieben Austria</title>
+				<location>dvb-s://frequency=12051000:inversion=2:srate=27500000:fec=3:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>165</vlc:id>
+					<vlc:option>program=20002</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0165. Kabel 1 Schweiz</title>
+				<location>dvb-s://frequency=12051000:inversion=2:srate=27500000:fec=3:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>166</vlc:id>
+					<vlc:option>program=20003</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0166. Kabel 1 Austria</title>
+				<location>dvb-s://frequency=12051000:inversion=2:srate=27500000:fec=3:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>167</vlc:id>
+					<vlc:option>program=20004</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0167. SAT.1 A</title>
+				<location>dvb-s://frequency=12051000:inversion=2:srate=27500000:fec=3:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>168</vlc:id>
+					<vlc:option>program=20005</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0168. SAT.1 CH</title>
+				<location>dvb-s://frequency=12051000:inversion=2:srate=27500000:fec=3:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>169</vlc:id>
+					<vlc:option>program=20006</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0169. PULS 4 Austria</title>
+				<location>dvb-s://frequency=12051000:inversion=2:srate=27500000:fec=3:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>170</vlc:id>
+					<vlc:option>program=20007</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0170. SAT.1 HH/SH</title>
+				<location>dvb-s://frequency=12051000:inversion=2:srate=27500000:fec=3:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>171</vlc:id>
+					<vlc:option>program=20008</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0171. SAT.1 NS/Bremen</title>
+				<location>dvb-s://frequency=12051000:inversion=2:srate=27500000:fec=3:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>172</vlc:id>
+					<vlc:option>program=20009</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0172. SAT.1 RhlPf/Hessen</title>
+				<location>dvb-s://frequency=12051000:inversion=2:srate=27500000:fec=3:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>173</vlc:id>
+					<vlc:option>program=20010</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0173. SAT.1 HD</title>
+				<location>dvb-s://frequency=11464250:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>174</vlc:id>
+					<vlc:option>program=61300</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0174. ProSieben HD</title>
+				<location>dvb-s://frequency=11464250:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>175</vlc:id>
+					<vlc:option>program=61301</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0175. kabel eins HD</title>
+				<location>dvb-s://frequency=11464250:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>176</vlc:id>
+					<vlc:option>program=61302</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0176. SIXX HD</title>
+				<location>dvb-s://frequency=11464250:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>177</vlc:id>
+					<vlc:option>program=61303</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0177. ProSieben MAXX HD</title>
+				<location>dvb-s://frequency=11464250:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>178</vlc:id>
+					<vlc:option>program=61304</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0178. RTL HD</title>
+				<location>dvb-s://frequency=10832250:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>179</vlc:id>
+					<vlc:option>program=61200</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0179. VOX HD</title>
+				<location>dvb-s://frequency=10832250:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>180</vlc:id>
+					<vlc:option>program=61201</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0180. SPORT1 HD</title>
+				<location>dvb-s://frequency=10832250:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>181</vlc:id>
+					<vlc:option>program=61204</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0181. RTL2 HD</title>
+				<location>dvb-s://frequency=10832250:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>182</vlc:id>
+					<vlc:option>program=61205</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0186. N24 HD</title>
+				<location>dvb-s://frequency=10773250:inversion=2:srate=22000000:fec=3:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>187</vlc:id>
+					<vlc:option>program=21108</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0187. ASTRA Portal</title>
+				<location>dvb-s://frequency=10773250:inversion=2:srate=22000000:fec=3:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>188</vlc:id>
+					<vlc:option>program=21111</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0188. NICK/CC HD Austria</title>
+				<location>dvb-s://frequency=10773250:inversion=2:srate=22000000:fec=3:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>189</vlc:id>
+					<vlc:option>program=21117</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0189. N24 HD Austria</title>
+				<location>dvb-s://frequency=10773250:inversion=2:srate=22000000:fec=3:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>190</vlc:id>
+					<vlc:option>program=21118</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0249. CNN Int.</title>
+				<location>dvb-s://frequency=11778000:inversion=2:srate=27500000:fec=3:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>250</vlc:id>
+					<vlc:option>program=28522</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0349. ZDF</title>
+				<location>dvb-s://frequency=11953500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>350</vlc:id>
+					<vlc:option>program=28006</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0350. 3sat</title>
+				<location>dvb-s://frequency=11953500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>351</vlc:id>
+					<vlc:option>program=28007</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0351. KiKA</title>
+				<location>dvb-s://frequency=11953500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>352</vlc:id>
+					<vlc:option>program=28008</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0352. ZDFinfo</title>
+				<location>dvb-s://frequency=11953500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>353</vlc:id>
+					<vlc:option>program=28011</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0353. DKULTUR</title>
+				<location>dvb-s://frequency=11953500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>354</vlc:id>
+					<vlc:option>program=28012</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0354. DLF</title>
+				<location>dvb-s://frequency=11953500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>355</vlc:id>
+					<vlc:option>program=28013</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0355. zdf_neo</title>
+				<location>dvb-s://frequency=11953500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>356</vlc:id>
+					<vlc:option>program=28014</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0356. zdf.kultur</title>
+				<location>dvb-s://frequency=11953500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>357</vlc:id>
+					<vlc:option>program=28016</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0357. DRadio Wissen</title>
+				<location>dvb-s://frequency=11953500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>358</vlc:id>
+					<vlc:option>program=28017</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0372. RTL Television</title>
+				<location>dvb-s://frequency=12187500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>373</vlc:id>
+					<vlc:option>program=12003</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0373. RTL Regional NRW</title>
+				<location>dvb-s://frequency=12187500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>374</vlc:id>
+					<vlc:option>program=12004</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0374. RTL HB NDS</title>
+				<location>dvb-s://frequency=12187500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>375</vlc:id>
+					<vlc:option>program=12005</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0375. RTL FS</title>
+				<location>dvb-s://frequency=12187500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>376</vlc:id>
+					<vlc:option>program=12006</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0376. RTL2</title>
+				<location>dvb-s://frequency=12187500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>377</vlc:id>
+					<vlc:option>program=12020</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0377. RTL Living</title>
+				<location>dvb-s://frequency=12187500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>378</vlc:id>
+					<vlc:option>program=12030</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0378. SUPER RTL</title>
+				<location>dvb-s://frequency=12187500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>379</vlc:id>
+					<vlc:option>program=12040</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0379. SUPER RTL CH</title>
+				<location>dvb-s://frequency=12187500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>380</vlc:id>
+					<vlc:option>program=12041</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0380. VOX</title>
+				<location>dvb-s://frequency=12187500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>381</vlc:id>
+					<vlc:option>program=12060</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0381. RTLNITRO</title>
+				<location>dvb-s://frequency=12187500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>382</vlc:id>
+					<vlc:option>program=12061</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0382. Channel 21</title>
+				<location>dvb-s://frequency=12187500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>383</vlc:id>
+					<vlc:option>program=12080</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0383. n-tv</title>
+				<location>dvb-s://frequency=12187500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>384</vlc:id>
+					<vlc:option>program=12090</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0384. Channel 21 ALT</title>
+				<location>dvb-s://frequency=12187500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>385</vlc:id>
+					<vlc:option>program=12095</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0454. Das Erste</title>
+				<location>dvb-s://frequency=11836500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>455</vlc:id>
+					<vlc:option>program=28106</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0455. Bayerisches FS Süd</title>
+				<location>dvb-s://frequency=11836500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>456</vlc:id>
+					<vlc:option>program=28107</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0456. hr-fernsehen</title>
+				<location>dvb-s://frequency=11836500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>457</vlc:id>
+					<vlc:option>program=28108</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0457. Bayerisches FS Nord</title>
+				<location>dvb-s://frequency=11836500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>458</vlc:id>
+					<vlc:option>program=28110</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0458. WDR Köln</title>
+				<location>dvb-s://frequency=11836500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>459</vlc:id>
+					<vlc:option>program=28111</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0459. SWR Fernsehen BW</title>
+				<location>dvb-s://frequency=11836500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>460</vlc:id>
+					<vlc:option>program=28113</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0460. WDR Bielefeld</title>
+				<location>dvb-s://frequency=12421500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>461</vlc:id>
+					<vlc:option>program=28306</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0461. WDR Dortmund</title>
+				<location>dvb-s://frequency=12421500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>462</vlc:id>
+					<vlc:option>program=28307</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0462. WDR Düsseldorf</title>
+				<location>dvb-s://frequency=12421500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>463</vlc:id>
+					<vlc:option>program=28308</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0463. WDR Essen</title>
+				<location>dvb-s://frequency=12421500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>464</vlc:id>
+					<vlc:option>program=28309</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0464. WDR Münster</title>
+				<location>dvb-s://frequency=12421500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>465</vlc:id>
+					<vlc:option>program=28310</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0465. WDR Siegen</title>
+				<location>dvb-s://frequency=12421500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>466</vlc:id>
+					<vlc:option>program=28311</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0466. WDR HD Köln</title>
+				<location>dvb-s://frequency=12421500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>467</vlc:id>
+					<vlc:option>program=28325</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0467. WDR HD Bielefeld</title>
+				<location>dvb-s://frequency=12421500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>468</vlc:id>
+					<vlc:option>program=28326</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0468. WDR HD Dortmund</title>
+				<location>dvb-s://frequency=12421500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>469</vlc:id>
+					<vlc:option>program=28327</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0469. WDR HD Düsseldorf</title>
+				<location>dvb-s://frequency=12421500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>470</vlc:id>
+					<vlc:option>program=28328</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0470. WDR HD Essen</title>
+				<location>dvb-s://frequency=12421500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>471</vlc:id>
+					<vlc:option>program=28329</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0471. WDR HD Münster</title>
+				<location>dvb-s://frequency=12421500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>472</vlc:id>
+					<vlc:option>program=28330</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0472. WDR HD Siegen</title>
+				<location>dvb-s://frequency=12421500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>473</vlc:id>
+					<vlc:option>program=28331</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0473. Radio Bremen TV</title>
+				<location>dvb-s://frequency=12421500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>474</vlc:id>
+					<vlc:option>program=28385</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0474. WDR Test A</title>
+				<location>dvb-s://frequency=12421500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>475</vlc:id>
+					<vlc:option>program=28395</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0475. Einsfestival HD</title>
+				<location>dvb-s://frequency=12421500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>476</vlc:id>
+					<vlc:option>program=28396</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0487. ARTE</title>
+				<location>dvb-s://frequency=12402000:inversion=2:srate=27500000:fec=3:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>488</vlc:id>
+					<vlc:option>program=8712</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0497. ARTE</title>
+				<location>dvb-s://frequency=12402000:inversion=2:srate=27500000:fec=3:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>498</vlc:id>
+					<vlc:option>program=8732</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0500. Bibel TV</title>
+				<location>dvb-s://frequency=12551500:inversion=2:srate=22000000:fec=5:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>501</vlc:id>
+					<vlc:option>program=12122</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0560. BBC World</title>
+				<location>dvb-s://frequency=11597000:inversion=2:srate=22000000:fec=5:voltage=13:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>561</vlc:id>
+					<vlc:option>program=10050</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0588. ORF1</title>
+				<location>dvb-s://frequency=12692250:inversion=2:srate=22000000:fec=5:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>589</vlc:id>
+					<vlc:option>program=13001</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0589. ORF2</title>
+				<location>dvb-s://frequency=12692250:inversion=2:srate=22000000:fec=5:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>590</vlc:id>
+					<vlc:option>program=13002</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0774. Al Jazeera Channel</title>
+				<location>dvb-s://frequency=11508500:inversion=2:srate=22000000:fec=5:voltage=13:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>775</vlc:id>
+					<vlc:option>program=7009</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0777. Al Jazeera English</title>
+				<location>dvb-s://frequency=11508500:inversion=2:srate=22000000:fec=5:voltage=13:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>778</vlc:id>
+					<vlc:option>program=7012</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0868. MDR1 SACHSEN</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>869</vlc:id>
+					<vlc:option>program=28428</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0869. MDR S-ANHALT</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>870</vlc:id>
+					<vlc:option>program=28429</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0870. MDR THÜRINGEN</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>871</vlc:id>
+					<vlc:option>program=28430</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0871. MDR FIGARO</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>872</vlc:id>
+					<vlc:option>program=28431</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0872. MDR JUMP</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>873</vlc:id>
+					<vlc:option>program=28432</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0873. MDR SPUTNIK</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>874</vlc:id>
+					<vlc:option>program=28433</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0874. MDR INFO</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>875</vlc:id>
+					<vlc:option>program=28434</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0875. MDR KLASSIK</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>876</vlc:id>
+					<vlc:option>program=28435</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0876. NDR 2</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>877</vlc:id>
+					<vlc:option>program=28437</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0877. NDR Kultur</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>878</vlc:id>
+					<vlc:option>program=28438</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0878. NDR Info</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>879</vlc:id>
+					<vlc:option>program=28439</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0879. N-JOY</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>880</vlc:id>
+					<vlc:option>program=28440</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0880. NDR 90,3</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>881</vlc:id>
+					<vlc:option>program=28441</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0881. NDR1WelleNord</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>882</vlc:id>
+					<vlc:option>program=28442</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0882. NDR 1 Radio MV</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>883</vlc:id>
+					<vlc:option>program=28443</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0883. NDR 1 Nieders.</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>884</vlc:id>
+					<vlc:option>program=28444</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0884. NDR Info Spez.</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>885</vlc:id>
+					<vlc:option>program=28445</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0885. NDR Blue</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>886</vlc:id>
+					<vlc:option>program=28446</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0886. Bremen Eins</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>887</vlc:id>
+					<vlc:option>program=28448</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0887. Nordwestradio</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>888</vlc:id>
+					<vlc:option>program=28449</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0888. Bremen Vier</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>889</vlc:id>
+					<vlc:option>program=28450</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0889. Inforadio</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>890</vlc:id>
+					<vlc:option>program=28452</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0890. Kulturradio</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>891</vlc:id>
+					<vlc:option>program=28453</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0891. Antenne Brandenburg</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>892</vlc:id>
+					<vlc:option>program=28454</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0892. radioBERLIN 88,8</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>893</vlc:id>
+					<vlc:option>program=28455</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0893. radioeins</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>894</vlc:id>
+					<vlc:option>program=28456</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0894. Fritz</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>895</vlc:id>
+					<vlc:option>program=28457</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0895. SR1 Europawelle</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>896</vlc:id>
+					<vlc:option>program=28461</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0896. SR2 KulturRadio</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>897</vlc:id>
+					<vlc:option>program=28462</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0897. SR3 Saarlandwelle</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>898</vlc:id>
+					<vlc:option>program=28463</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0898. SWR1 BW</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>899</vlc:id>
+					<vlc:option>program=28465</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0899. SWR1 RP</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>900</vlc:id>
+					<vlc:option>program=28466</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0900. SWR2</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>901</vlc:id>
+					<vlc:option>program=28467</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0901. SWR3</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>902</vlc:id>
+					<vlc:option>program=28468</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0902. SWR4 BW</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>903</vlc:id>
+					<vlc:option>program=28469</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0903. SWR4 RP</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>904</vlc:id>
+					<vlc:option>program=28470</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0904. DASDING</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>905</vlc:id>
+					<vlc:option>program=28471</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0905. SWRinfo</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>906</vlc:id>
+					<vlc:option>program=28472</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0906. 1LIVE</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>907</vlc:id>
+					<vlc:option>program=28475</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0907. WDR 2</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>908</vlc:id>
+					<vlc:option>program=28476</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0908. WDR 3</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>909</vlc:id>
+					<vlc:option>program=28477</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0909. WDR 4</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>910</vlc:id>
+					<vlc:option>program=28478</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0910. WDR 5</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>911</vlc:id>
+					<vlc:option>program=28479</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0911. WDR Funkhaus Europa</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>912</vlc:id>
+					<vlc:option>program=28480</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0916. BR-alpha</title>
+				<location>dvb-s://frequency=12265500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>917</vlc:id>
+					<vlc:option>program=28487</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0941. EUROSPORT 2 HD</title>
+				<location>dvb-s://frequency=12090000:inversion=2:srate=29700000:fec=2:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>942</vlc:id>
+					<vlc:option>program=9406</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0957. MDR Sachsen</title>
+				<location>dvb-s://frequency=12109500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>958</vlc:id>
+					<vlc:option>program=28228</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0958. MDR S-Anhalt</title>
+				<location>dvb-s://frequency=12109500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>959</vlc:id>
+					<vlc:option>program=28229</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0959. MDR Thüringen</title>
+				<location>dvb-s://frequency=12109500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>960</vlc:id>
+					<vlc:option>program=28230</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0960. SWR Fernsehen RP</title>
+				<location>dvb-s://frequency=12109500:inversion=2:srate=27500000:fec=3:voltage=18:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>961</vlc:id>
+					<vlc:option>program=28231</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0991. F3 LANGUEDOCROU</title>
+				<location>dvb-s://frequency=12728500:inversion=2:srate=22000000:fec=5:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>992</vlc:id>
+					<vlc:option>program=9811</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0993. tagesschau24</title>
+				<location>dvb-s://frequency=10743750:inversion=2:srate=22000000:fec=5:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>994</vlc:id>
+					<vlc:option>program=28721</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0994. Einsfestival</title>
+				<location>dvb-s://frequency=10743750:inversion=2:srate=22000000:fec=5:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>995</vlc:id>
+					<vlc:option>program=28722</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0995. EinsPlus</title>
+				<location>dvb-s://frequency=10743750:inversion=2:srate=22000000:fec=5:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>996</vlc:id>
+					<vlc:option>program=28723</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0996. arte</title>
+				<location>dvb-s://frequency=10743750:inversion=2:srate=22000000:fec=5:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>997</vlc:id>
+					<vlc:option>program=28724</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0997. PHOENIX</title>
+				<location>dvb-s://frequency=10743750:inversion=2:srate=22000000:fec=5:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>998</vlc:id>
+					<vlc:option>program=28725</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1051. Bibel TV HD</title>
+				<location>dvb-s://frequency=11243750:inversion=2:srate=22000000:fec=5:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1052</vlc:id>
+					<vlc:option>program=13224</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1108. 3sat HD</title>
+				<location>dvb-s://frequency=11347000:inversion=2:srate=22000000:fec=2:voltage=13:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1109</vlc:id>
+					<vlc:option>program=11150</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1109. KiKA HD</title>
+				<location>dvb-s://frequency=11347000:inversion=2:srate=22000000:fec=2:voltage=13:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1110</vlc:id>
+					<vlc:option>program=11160</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1110. ZDFinfo HD</title>
+				<location>dvb-s://frequency=11347000:inversion=2:srate=22000000:fec=2:voltage=13:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1111</vlc:id>
+					<vlc:option>program=11170</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1113. SWR BW HD</title>
+				<location>dvb-s://frequency=11493750:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1114</vlc:id>
+					<vlc:option>program=10303</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1114. SWR RP HD</title>
+				<location>dvb-s://frequency=11493750:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1115</vlc:id>
+					<vlc:option>program=10304</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1115. BR Süd HD</title>
+				<location>dvb-s://frequency=11582250:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1116</vlc:id>
+					<vlc:option>program=10325</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1116. BR Nord HD</title>
+				<location>dvb-s://frequency=11582250:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1117</vlc:id>
+					<vlc:option>program=10326</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1117. NDR FS NDS HD</title>
+				<location>dvb-s://frequency=11582250:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1118</vlc:id>
+					<vlc:option>program=10327</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1118. NDR FS MV HD</title>
+				<location>dvb-s://frequency=11582250:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1119</vlc:id>
+					<vlc:option>program=10328</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1119. NDR FS HH HD</title>
+				<location>dvb-s://frequency=11582250:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1120</vlc:id>
+					<vlc:option>program=10329</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1120. NDR FS SH HD</title>
+				<location>dvb-s://frequency=11582250:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1121</vlc:id>
+					<vlc:option>program=10330</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1121. PHOENIX HD</title>
+				<location>dvb-s://frequency=11582250:inversion=2:srate=22000000:fec=2:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1122</vlc:id>
+					<vlc:option>program=10331</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1122. CANAL+ HD</title>
+				<location>dvb-s://frequency=12012000:inversion=2:srate=29700000:fec=2:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1123</vlc:id>
+					<vlc:option>program=8801</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1138. ARTE HD</title>
+				<location>dvb-s://frequency=12168000:inversion=2:srate=29700000:fec=2:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1139</vlc:id>
+					<vlc:option>program=9304</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1144. ARTE HD</title>
+				<location>dvb-s://frequency=12168000:inversion=2:srate=29700000:fec=2:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1145</vlc:id>
+					<vlc:option>program=9324</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1150. ARTE HD</title>
+				<location>dvb-s://frequency=12168000:inversion=2:srate=29700000:fec=2:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1151</vlc:id>
+					<vlc:option>program=9344</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1156. NATIONAL GEO HD</title>
+				<location>dvb-s://frequency=12207000:inversion=2:srate=29700000:fec=2:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1157</vlc:id>
+					<vlc:option>program=9003</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1158. DJAZZ.TV HD</title>
+				<location>dvb-s://frequency=12207000:inversion=2:srate=29700000:fec=2:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1159</vlc:id>
+					<vlc:option>program=9027</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1159. DJAZZ.TV HD</title>
+				<location>dvb-s://frequency=12207000:inversion=2:srate=29700000:fec=2:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1160</vlc:id>
+					<vlc:option>program=9007</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1167. EUROSPORT HD</title>
+				<location>dvb-s://frequency=12207000:inversion=2:srate=29700000:fec=2:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1168</vlc:id>
+					<vlc:option>program=9033</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1168. NATIONAL GEO HD</title>
+				<location>dvb-s://frequency=12207000:inversion=2:srate=29700000:fec=2:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1169</vlc:id>
+					<vlc:option>program=9023</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1169. EUROSPORT HD</title>
+				<location>dvb-s://frequency=12207000:inversion=2:srate=29700000:fec=2:voltage=13:tone=1:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1170</vlc:id>
+					<vlc:option>program=9013</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1210. FOX HD</title>
+				<location>dvb-s://frequency=10817500:inversion=2:srate=22000000:fec=2:voltage=13:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1211</vlc:id>
+					<vlc:option>program=29950</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1284. SUPER RTL HD</title>
+				<location>dvb-s://frequency=11082250:inversion=2:srate=22000000:fec=3:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1285</vlc:id>
+					<vlc:option>program=11931</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>1285. RTL II HD Austria</title>
+				<location>dvb-s://frequency=11082250:inversion=2:srate=22000000:fec=3:voltage=18:tone=0:satno=3</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1286</vlc:id>
+					<vlc:option>program=11941</vlc:option>
+				</extension>
+			</track>
+		</trackList>
+	</playlist>
